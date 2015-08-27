@@ -1,6 +1,6 @@
 # adresses_carnet
 Carnet d'adresses en ligne sous symfony2
-Par Abdelafid HASSINE
+Par Abdelhafid HASSINE
 
 Intitulé du sujet
 
